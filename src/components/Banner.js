@@ -15,7 +15,7 @@ const Banner = () => {
         <Slide direction="left">
           <div className="banner-title">{Locale.bannerTitle}</div>
           <p className="banner-copy">{Locale.bannerCopy}</p>
-          <div className="d-flex">
+          <div className="d-flex cta-btns">
             <div className="btn-get-chrome">{Locale.getChrome}</div>
             <div className="btn-get-firefox">{Locale.getFirefox}</div>
           </div>
