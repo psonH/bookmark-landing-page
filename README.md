@@ -1,4 +1,4 @@
-# Frontend Mentor - Bookmark landing page
+# Bookmark landing page in React JS
 
 I have build a landing page as part of the Frontend Mentor challenge project.
 
