@@ -4,8 +4,6 @@ I have build a landing page as part of the Frontend Mentor challenge project.
 
 The project is built using React JS library.
 
-![Design preview for the Bookmark landing page coding challenge](https://www.frontendmentor.io/challenges/bookmark-landing-page-5d0b588a9edda32581d29158)
-
 ## About the challenge
 
 The challenge is to build out this landing page and get it looking as close to the design as possible.
